@@ -13,6 +13,7 @@
 		AB75FC7B25074D1D00E612C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB75FC7925074D1D00E612C1 /* Main.storyboard */; };
 		AB75FC7D25074D1E00E612C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB75FC7C25074D1E00E612C1 /* Assets.xcassets */; };
 		AB75FC8025074D1E00E612C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB75FC7E25074D1E00E612C1 /* LaunchScreen.storyboard */; };
+		AB75FC88250752F500E612C1 /* qaClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB75FC87250752F500E612C1 /* qaClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB75FC7C25074D1E00E612C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB75FC7F25074D1E00E612C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB75FC8125074D1E00E612C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB75FC87250752F500E612C1 /* qaClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = qaClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AB75FC7525074D1D00E612C1 /* SceneDelegate.swift */,
 				AB75FC7725074D1D00E612C1 /* ViewController.swift */,
 				AB75FC7925074D1D00E612C1 /* Main.storyboard */,
+				AB75FC87250752F500E612C1 /* qaClass.swift */,
 				AB75FC7C25074D1E00E612C1 /* Assets.xcassets */,
 				AB75FC7E25074D1E00E612C1 /* LaunchScreen.storyboard */,
 				AB75FC8125074D1E00E612C1 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB75FC88250752F500E612C1 /* qaClass.swift in Sources */,
 				AB75FC7825074D1D00E612C1 /* ViewController.swift in Sources */,
 				AB75FC7425074D1D00E612C1 /* AppDelegate.swift in Sources */,
 				AB75FC7625074D1D00E612C1 /* SceneDelegate.swift in Sources */,
